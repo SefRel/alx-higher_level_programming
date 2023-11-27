@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Set the environment variable with the Python file name
+export PYFILE="main.py"
+
+# Run the Python script
+python3 $PYFILE
+
